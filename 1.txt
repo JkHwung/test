@@ -1,3 +1,2 @@
 git remote add origin https://github.com/JkHwung/test.git
 git push -u origin master
-1115515 7070
